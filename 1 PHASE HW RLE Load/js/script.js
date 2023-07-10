@@ -976,7 +976,7 @@ function dcValues(name) {
       openPopup(
         "new-img/404-error.png",
         "The DC voltage can't be greater than AC Voltage",
-        "23px"
+        "20px"
       );
     }
   }
@@ -1087,7 +1087,7 @@ function acSubmited(name) {
       openPopup(
         "new-img/404-error.png",
         "The AC voltage can't be lower than DC Voltage",
-        "23px"
+        "20px"
       );
     }
   }
